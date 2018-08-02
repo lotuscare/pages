@@ -6,6 +6,10 @@
     <source src="video.iphone.mp4" media="only screen and (max-device-width: 568px)"></source>
 </video>
 <iframe height=498 width=510 src='http://player.youku.com/embed/XMzc0MDYyNTM4NA==' frameborder=0 'allowfullscreen'></iframe>
+
+<embed src='http://player.youku.com/player.php/sid/XMzc0MDYyNTM4NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+
+
 You can use the [editor on GitHub](https://github.com/lotuscare/pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
