@@ -1,6 +1,6 @@
 ﻿## Welcome to GitHub Pages
 
-![Image of Yaktocat](https://lotuscare.github.com/pics/3801213fb80e7bec8a08a8ec2c2eb9389a506be9.jpg)
+![Image of Yaktocat](https://lotuscare.github.io/pics/3801213fb80e7bec8a08a8ec2c2eb9389a506be9.jpg)
 
 You can use the [editor on GitHub](https://github.com/lotuscare/pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
